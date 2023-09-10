@@ -1,0 +1,2 @@
+
+Inserting Text in the new file named as "newone.txt"
